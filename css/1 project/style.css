@@ -1,0 +1,40 @@
+/*default selector tagname ,    basic selectors id,class,name*/
+
+body{
+    background-color: black;
+}      /*tag selector */
+
+/* to change the color of heading here we use tag name and use {}*/
+h1{
+    color: cyan;
+}
+
+#first{
+    color: blue;
+}
+
+.item{
+    color: rgb(0, 255, 183);
+}   /* .item means select all elements in items*/
+
+.item2{
+    color: white;
+    text-decoration: underline;  
+    text-decoration-color: aqua;          
+}
+
+.item3{
+    color: rosybrown;
+}
+
+.item4{
+    color: rebeccapurple;
+}
+
+.main-head h1:nth-child(1){
+    color: aquamarine;
+}
+
+.main-head h1:nth-child(3){
+    color: bisque;
+}

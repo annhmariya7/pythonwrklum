@@ -1,0 +1,5 @@
+#this is a text to apply file i/o
+hello
+hai
+hellllo
+hey

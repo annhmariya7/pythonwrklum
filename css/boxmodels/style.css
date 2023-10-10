@@ -1,0 +1,22 @@
+
+body{
+    margin: 0;
+}
+
+.box{
+    width: 30%;
+    height: 200px;
+    background-color: beige;
+    border: 1px solid black;
+}
+
+nav{
+    margin-left: 430px;
+    margin-top: 20px;
+    padding-left: 50%;
+}
+
+footer{
+    margin-left: 430px;
+    margin-top: 500px;
+}

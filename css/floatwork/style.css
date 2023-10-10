@@ -1,0 +1,19 @@
+
+
+.row{
+    width: 100%;
+    height: 400px;
+    background-color: bisque;
+    border: 1px solid black;
+}
+
+.col{
+    width: 30%;
+    height: 300px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    float: left;   /*to display three cols on left side */
+    margin-left: 3%;
+    margin-top: 2%
+}
+
